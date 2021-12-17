@@ -1,3 +1,3 @@
 # HTML, CSS, and Javascript for web developers
 
-Repo Web Site: https://phoenix8685.github.io/Coursera_HTML_CSS/
+Repo Web Site: https://github.com/PradyumnaGRNitte/Coursera_HTML
